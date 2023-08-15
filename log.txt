@@ -1,0 +1,1 @@
+0492. 🎨 style: remove trailing whitespace
