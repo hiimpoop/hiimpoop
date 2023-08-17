@@ -198,3 +198,4 @@
 0561. 📚 docs: write FAQ section
 0448. 🐛 fix: correct typo in registration form
 0998. 🐛 fix: fix null pointer exception on login
+0513. ♻️ chore: bump dependencies
