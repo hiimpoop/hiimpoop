@@ -205,3 +205,4 @@
 0369. 🎨 style: standardize quote style
 0001. 🚀 perf: cache repeated calculations
 0305. ✨ feat: enable dark mode toggle
+0795. 📚 docs: update README with setup steps
