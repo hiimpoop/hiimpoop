@@ -3,3 +3,4 @@
 0094. 📚 docs: document token refresh logic
 0482. ✨ feat: add export to CSV option
 0704. 🚀 perf: cache repeated calculations
+0636. ✅ test: increase coverage on auth module
