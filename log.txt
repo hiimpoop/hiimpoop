@@ -210,3 +210,4 @@
 0353. ♻️ chore: rename env.example
 0393. 🚀 perf: lazy-load components
 0548. 📚 docs: write FAQ section
+0739. 🎨 style: remove trailing whitespace
