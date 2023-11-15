@@ -213,3 +213,4 @@
 0739. 🎨 style: remove trailing whitespace
 0637. 🎨 style: apply consistent indentation
 0028. 🎨 style: standardize quote style
+0816. 🔧 refactor: organize models into subfolders
