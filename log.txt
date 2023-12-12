@@ -222,3 +222,4 @@
 0910. 🎨 style: remove trailing whitespace
 0501. ✨ feat: add export to CSV option
 0784. ♻️ chore: clean up unused files
+0849. 🐛 fix: correct typo in registration form
