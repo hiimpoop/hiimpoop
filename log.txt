@@ -35,3 +35,4 @@
 0714. 📚 docs: improve code comments in utils
 0792. 🎨 style: standardize quote style
 0674. 🔧 refactor: split large controller into smaller functions
+0749. ✨ feat: support email verification
