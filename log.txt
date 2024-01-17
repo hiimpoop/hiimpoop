@@ -39,3 +39,4 @@
 0903. ✅ test: mock database connection in test suite
 0302. ✨ feat: implement quiz timer feature
 0249. ✅ test: increase coverage on auth module
+0601. ✨ feat: implement quiz timer feature
