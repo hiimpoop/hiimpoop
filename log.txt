@@ -40,3 +40,4 @@
 0302. ✨ feat: implement quiz timer feature
 0249. ✅ test: increase coverage on auth module
 0601. ✨ feat: implement quiz timer feature
+0055. 📚 docs: update README with setup steps
