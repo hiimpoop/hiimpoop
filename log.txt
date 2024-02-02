@@ -44,3 +44,4 @@
 0712. 🎨 style: apply consistent indentation
 0171. 🐛 fix: fix broken CSS in mobile view
 0111. 📚 docs: update README with setup steps
+0659. 📚 docs: add API usage examples
