@@ -243,3 +243,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0860. 🔧 refactor: organize models into subfolders
 0135. ✅ test: test user registration edge cases
+0822. 🔧 refactor: remove redundant code blocks
