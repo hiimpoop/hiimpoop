@@ -247,3 +247,4 @@
 0656. 🎨 style: apply consistent indentation
 0970. ♻️ chore: update .gitignore
 0257. 📚 docs: clarify environment setup
+0072. 🚀 perf: optimize database query for quiz results
