@@ -57,3 +57,4 @@
 0535. 📚 docs: write FAQ section
 0521. 🎨 style: standardize quote style
 0480. ♻️ chore: add GitHub actions badge
+0152. ✨ feat: add user authentication
