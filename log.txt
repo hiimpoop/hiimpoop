@@ -62,3 +62,4 @@
 0606. 📚 docs: improve code comments in utils
 0664. ✅ test: add unit test for quiz service
 0640. ♻️ chore: bump dependencies
+0468. 📚 docs: update README with setup steps
