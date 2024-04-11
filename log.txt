@@ -251,3 +251,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0224. 🐛 fix: fix broken CSS in mobile view
 0602. 🔧 refactor: remove redundant code blocks
+0702. ✨ feat: add user authentication
