@@ -257,3 +257,4 @@
 0334. 🚀 perf: cache repeated calculations
 0485. 📚 docs: update README with setup steps
 0463. 🚀 perf: reduce image load time
+0010. ✨ feat: add user authentication
