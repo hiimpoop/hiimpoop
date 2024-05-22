@@ -260,3 +260,4 @@
 0010. ✨ feat: add user authentication
 0074. ♻️ chore: add GitHub actions badge
 0778. 📚 docs: write FAQ section
+0512. 🚀 perf: reduce image load time
