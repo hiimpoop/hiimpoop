@@ -76,3 +76,4 @@
 0750. 🎨 style: apply consistent indentation
 0929. ✨ feat: support email verification
 0100. ♻️ chore: update .gitignore
+0756. ✨ feat: support email verification
