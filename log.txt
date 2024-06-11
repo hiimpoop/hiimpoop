@@ -77,3 +77,4 @@
 0929. ✨ feat: support email verification
 0100. ♻️ chore: update .gitignore
 0756. ✨ feat: support email verification
+0299. 🐛 fix: resolve issue with date parsing
