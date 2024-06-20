@@ -266,3 +266,4 @@
 0094. 📚 docs: document token refresh logic
 0365. 🚀 perf: reduce image load time
 0431. 🎨 style: reformat files with black
+0779. 🔧 refactor: organize models into subfolders
