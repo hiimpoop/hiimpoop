@@ -269,3 +269,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0728. 🔧 refactor: split large controller into smaller functions
 0133. 🐛 fix: fix null pointer exception on login
+0171. 🐛 fix: fix broken CSS in mobile view
