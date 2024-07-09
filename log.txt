@@ -271,3 +271,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0171. 🐛 fix: fix broken CSS in mobile view
 0165. 🎨 style: remove trailing whitespace
+0583. ✅ test: increase coverage on auth module
