@@ -281,3 +281,4 @@
 0731. 🎨 style: standardize quote style
 0104. 🎨 style: apply consistent indentation
 0329. 📚 docs: update README with setup steps
+0863. 🐛 fix: correct typo in registration form
