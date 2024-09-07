@@ -97,3 +97,4 @@
 0996. ✅ test: test user registration edge cases
 0850. ♻️ chore: rename env.example
 0312. ✨ feat: add user authentication
+0065. ✅ test: add integration test for /submit endpoint
