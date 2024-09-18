@@ -287,3 +287,4 @@
 0275. 🎨 style: standardize quote style
 0666. 🐛 fix: fix broken CSS in mobile view
 0864. 🐛 fix: correct typo in registration form
+0933. 📚 docs: clarify environment setup
