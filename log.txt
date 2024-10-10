@@ -101,3 +101,4 @@
 0677. 📚 docs: add API usage examples
 0685. ✅ test: test user registration edge cases
 0001. 🚀 perf: cache repeated calculations
+0335. ♻️ chore: update .gitignore
