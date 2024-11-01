@@ -295,3 +295,4 @@
 0953. 🎨 style: remove trailing whitespace
 0189. 📚 docs: clarify environment setup
 0947. 📚 docs: write FAQ section
+0277. 🎨 style: standardize quote style
