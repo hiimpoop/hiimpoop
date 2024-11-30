@@ -302,3 +302,4 @@
 0830. 🎨 style: apply consistent indentation
 0077. ♻️ chore: rename env.example
 0195. 📚 docs: clarify environment setup
+0259. 🚀 perf: lazy-load components
