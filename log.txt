@@ -307,3 +307,4 @@
 0442. 🎨 style: standardize quote style
 0039. ✅ test: add integration test for /submit endpoint
 0956. 📚 docs: clarify environment setup
+0009. ✨ feat: enable dark mode toggle
