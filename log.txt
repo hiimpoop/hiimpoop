@@ -320,3 +320,4 @@
 0765. ♻️ chore: clean up unused files
 0737. 🐛 fix: handle 500 error in quiz API
 0347. ♻️ chore: update .gitignore
+0037. 🐛 fix: correct typo in registration form
