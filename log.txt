@@ -129,3 +129,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0102. ✨ feat: support email verification
 0697. ♻️ chore: bump dependencies
+0019. ✨ feat: enable dark mode toggle
