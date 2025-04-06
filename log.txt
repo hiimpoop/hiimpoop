@@ -135,3 +135,4 @@
 0005. ✅ test: add unit test for quiz service
 0892. ✅ test: add unit test for quiz service
 0357. ✅ test: add unit test for quiz service
+0672. 🐛 fix: fix broken CSS in mobile view
