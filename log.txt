@@ -340,3 +340,4 @@
 0356. 📚 docs: write FAQ section
 0459. 🔧 refactor: organize models into subfolders
 0011. ✅ test: add unit test for quiz service
+0801. ✨ feat: enable dark mode toggle
