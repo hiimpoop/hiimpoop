@@ -146,3 +146,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0150. 🎨 style: remove trailing whitespace
 0597. 🚀 perf: cache repeated calculations
+0506. 🐛 fix: handle 500 error in quiz API
