@@ -149,3 +149,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0870. ♻️ chore: clean up unused files
 0304. 🔧 refactor: remove redundant code blocks
+0392. 🎨 style: remove trailing whitespace
