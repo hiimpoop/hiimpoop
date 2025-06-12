@@ -153,3 +153,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0992. ♻️ chore: clean up unused files
 0095. ✅ test: mock database connection in test suite
+0666. 🐛 fix: fix broken CSS in mobile view
