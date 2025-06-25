@@ -349,3 +349,4 @@
 0658. 🎨 style: rename variables for clarity
 0835. 🐛 fix: prevent crash on empty input
 0005. ✅ test: add unit test for quiz service
+0687. 🎨 style: remove trailing whitespace
