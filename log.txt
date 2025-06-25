@@ -156,3 +156,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0278. 🔧 refactor: clean up auth middleware
 0014. 🔧 refactor: remove redundant code blocks
+0454. ♻️ chore: bump dependencies
