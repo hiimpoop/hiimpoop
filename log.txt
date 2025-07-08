@@ -158,3 +158,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0454. ♻️ chore: bump dependencies
 0113. ✨ feat: add user authentication
+0790. 📚 docs: write FAQ section
