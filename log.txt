@@ -355,3 +355,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0078. ♻️ chore: update .gitignore
 0603. 🐛 fix: fix broken CSS in mobile view
+0538. 🐛 fix: fix broken CSS in mobile view
