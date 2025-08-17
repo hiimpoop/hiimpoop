@@ -358,3 +358,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0982. 🚀 perf: lazy-load components
 0622. 🎨 style: apply consistent indentation
+0876. ♻️ chore: rename env.example
