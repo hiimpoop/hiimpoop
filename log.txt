@@ -363,3 +363,4 @@
 0854. ♻️ chore: rename env.example
 0667. ✨ feat: add export to CSV option
 0110. 🐛 fix: prevent crash on empty input
+0802. 🔧 refactor: remove redundant code blocks
