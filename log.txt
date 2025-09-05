@@ -364,3 +364,4 @@
 0667. ✨ feat: add export to CSV option
 0110. 🐛 fix: prevent crash on empty input
 0802. 🔧 refactor: remove redundant code blocks
+0354. 📚 docs: add API usage examples
