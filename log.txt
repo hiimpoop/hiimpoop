@@ -172,3 +172,4 @@
 0147. ♻️ chore: bump dependencies
 0814. 🔧 refactor: remove redundant code blocks
 0290. ✅ test: test user registration edge cases
+0622. 🎨 style: apply consistent indentation
