@@ -368,3 +368,4 @@
 0519. 📚 docs: document token refresh logic
 0416. 🎨 style: rename variables for clarity
 0387. ✨ feat: enable dark mode toggle
+0574. ✨ feat: enable dark mode toggle
