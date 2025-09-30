@@ -370,3 +370,4 @@
 0387. ✨ feat: enable dark mode toggle
 0574. ✨ feat: enable dark mode toggle
 0041. 🐛 fix: fix broken CSS in mobile view
+0787. ♻️ chore: rename env.example
