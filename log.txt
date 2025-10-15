@@ -180,3 +180,4 @@
 0641. 📚 docs: write FAQ section
 0619. ✨ feat: create admin dashboard
 0504. 📚 docs: document token refresh logic
+0279. ✨ feat: support email verification
