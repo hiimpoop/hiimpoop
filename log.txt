@@ -183,3 +183,4 @@
 0279. ✨ feat: support email verification
 0425. 🔧 refactor: refactor quiz grading logic
 0789. ✨ feat: create admin dashboard
+0573. ✅ test: add integration test for /submit endpoint
