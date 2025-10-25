@@ -184,3 +184,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0789. ✨ feat: create admin dashboard
 0573. ✅ test: add integration test for /submit endpoint
+0444. ✅ test: add unit test for quiz service
