@@ -383,3 +383,4 @@
 0427. ✅ test: mock database connection in test suite
 0788. 📚 docs: add API usage examples
 0474. ✅ test: add unit test for quiz service
+0242. ♻️ chore: clean up unused files
