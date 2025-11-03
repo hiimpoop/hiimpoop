@@ -187,3 +187,4 @@
 0444. ✅ test: add unit test for quiz service
 0241. 📚 docs: add API usage examples
 0181. ♻️ chore: add GitHub actions badge
+0172. 📚 docs: add API usage examples
