@@ -190,3 +190,4 @@
 0172. 📚 docs: add API usage examples
 0509. ♻️ chore: bump dependencies
 0523. ♻️ chore: bump dependencies
+0457. 🐛 fix: handle 500 error in quiz API
