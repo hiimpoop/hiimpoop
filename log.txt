@@ -195,3 +195,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
+0561. 📚 docs: write FAQ section
