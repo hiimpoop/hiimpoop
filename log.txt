@@ -389,3 +389,4 @@
 0931. 🚀 perf: reduce image load time
 0893. 🐛 fix: handle 500 error in quiz API
 0096. 🐛 fix: prevent crash on empty input
+0052. 🎨 style: standardize quote style
