@@ -394,3 +394,4 @@
 0454. ♻️ chore: bump dependencies
 0477. 🐛 fix: fix broken CSS in mobile view
 0579. 📚 docs: clarify environment setup
+0720. ✨ feat: add export to CSV option
